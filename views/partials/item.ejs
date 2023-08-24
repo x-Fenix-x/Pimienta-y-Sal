@@ -1,0 +1,15 @@
+<h4>
+    <a href="/detalle/<%= item.id %>"> <%= item.nombre %></a>
+</h4>
+<p class="ps-text-grey">
+    <%= item.descripcion ? item.descripcion : "Plato típico" %> U$S <%= item.precio %>
+    <!-- <br>
+    <%= item.descripcion || "Plato típico" %> U$S <%= item.precio %> -->
+    <!-- <br>
+    <% if (item.descripcion) { %>
+        <%= item.descripcion %> U$S <%= item.precio %>
+    <% }else{ %>
+        Plato típico U$S <%= item.precio %>
+    <% } %> -->
+</p>
+<br />

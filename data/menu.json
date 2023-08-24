@@ -25,13 +25,13 @@
       "nombre": "Espárragos blancos",
       "descripcion": "Espárragos blancos con vinagreta de verduras y jamón ibérico",
       "precio": 37.5,
-      "imagen": "esparragos.jpg"
+      "imagen": "esparragos.png"
    },
    {
       "id": 5,
-      "nombre": "Asado",
+      "nombre": "Milanesa con papas",
       "descripcion": null,
       "precio": 150,
-      "imagen": "asado.jpg"
+      "imagen": "milanesa.jpg"
    }
 ]
